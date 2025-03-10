@@ -7,7 +7,7 @@ app.get('/data',(req,res)=>{
    return res.send({
     status:true,
     error:false,
-    message:"success"
+    message:"success data"
    })
 });
 
